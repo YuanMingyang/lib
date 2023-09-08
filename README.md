@@ -37,7 +37,13 @@ MJExtension(OC):                转模型框架
 
 YYText(OC):                     富文本
 
+FSCalendar(OC):                 日历
+
+JTCalendar(OC):                 可以自定义的日历
+
 BRPickerView(OC):               iOS中常用的选择器组件(日历、地址、自定义...)
+
+WebViewJavascriptBridge(OC):    webView交互
 
 dsBridge(OC):                   webView交互
 
@@ -67,6 +73,28 @@ UIViewController+BackButtonHandler(OC):
 FDFullscreenPopGesture(OC):     控制导航栏的隐藏显示、侧滑返回的生效与否
 
 UIFont-TTF(OC):                 特殊字体的获取
+
+CTMediator(OC):                 模块化开发模块之间的相互调用
+
+PNChart(OC):                    各种统计图表
+
+GGChart(OC):                    各种统计图表
+
+RollingNotice(OC):              滚动广告/文字
+
+KTVHTTPCache(OC):               媒体缓存框架
+
+WMPageController(OC):           页面控制器
+
+ZJScrollPageView(OC):           页面控制器
+
+SDAutoLayout(OC):               布局
+
+ZipArchive(OC):                 ZIP解压缩
+
+PBJVision(OC):                  媒体录制
+
+
 
 
 
@@ -117,6 +145,11 @@ SnapKit(swift):                 布局框架(swift版Masonry)
 Kingfisher(swift):              图片渲染加载(swift版SDWebImage)
 
 KeychainAccess(swift):          钥匙串存储数据
+
 ActiveLabel(swift):             富文本、可点击文本
+
+FSPagerView(swift):             轮播图
+
+HGPlaceholders(swift):          tableview无数据占位
 
 
